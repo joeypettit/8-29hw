@@ -13,3 +13,10 @@ function conditional(num1, num2){
 console.log('Example 1:', conditional(3,2));
 console.log('Example 3:', conditional(2,7));
 console.log('Example 2:', conditional(7,7));
+
+
+
+
+
+
+console.log(" ");

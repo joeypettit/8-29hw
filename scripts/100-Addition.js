@@ -9,3 +9,13 @@ function addition(num1, num2){
 
 console.log('Example 1:', addition(2,3));
 console.log('Example 2:', addition(2,7));
+
+
+
+
+
+
+
+
+
+console.log(" ");
